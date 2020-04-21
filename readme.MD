@@ -11,7 +11,7 @@ issues. </p>
 - [x] Eslint
 - [x] Prettier
 
-![/github/assets/tela1] ![/githu-assets/tela2]
+![](/github/assets/tela1) ![](/github-assets/tela2)
 
 ---
 
