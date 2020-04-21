@@ -19,4 +19,4 @@ issues. </p>
 
 ---
 
-Feito com ❤️ por Guilherme Gonçalves
+Feito com ❤️ por Guilherme Gonçalves <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-59291a19b/">Linkedin</a>
