@@ -11,7 +11,8 @@ issues. </p>
 - [x] Eslint
 - [x] Prettier
 
-![](./github-assets/tela1.png) 
+<strong>Telas da aplicação</strong>
+<img src="/github-assets/tela1.png"  width="100px"/>
   --- 
 ![](./github-assets/tela2.png)
 
